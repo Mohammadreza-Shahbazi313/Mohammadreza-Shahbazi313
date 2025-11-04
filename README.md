@@ -16,7 +16,7 @@ Currently working on my personal project ** 🎬 EMStreamTube **  and continuous
 ---
 
 ### 🛠️ Tech Stack
-`HTML5` • `CSS3` • `JavaScript` (learning) • `Python` (learning) • `Angular` (learning) • `Git` • `GitHub` • `VS Code`
+`HTML5` • `CSS3` • `JavaScript` (learning) • `Python` (learning) • `Angular` (learning) • `Git` • `GitHub` • `VS Code` • `ICDL`
 
 ---
 
