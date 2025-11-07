@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile!  
 I'm a **front-end developer** passionate about creating clean, responsive, and modern web designs.  
-Currently working on my personal project ** Calculator 🧮 **  and continuously improving my development workflow.
+Currently working on my personal project ** [Calculator 🧮](https://github.com/Mohammadreza-Shahbazi313/Calculator) **  and continuously improving my development workflow.
+🔗 [View my last project Live](https://Mohammadreza-Shahbazi313.github.io/Calculator/)
 
 ---
 
