@@ -34,47 +34,6 @@ Currently working on my personal project ** [Calculator 🧮](https://github.com
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,git,github,vscode,bootstrap" />
 </p>
----
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <!-- آیکون‌های ICDL -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" title="Microsoft Word" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="40" title="Microsoft Excel" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="40" title="Microsoft PowerPoint" />
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="40" title="Microsoft Access" />
-</p>
-
----
-
-<p align="left">
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" title="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap" />
-
-  <!-- ICDL icons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_Word_2013-2019_logo.svg" height="40" title="Microsoft Word" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" title="Microsoft Excel" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_2013-2019_logo.svg" height="40" title="Microsoft PowerPoint" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Microsoft_Access_2013-2019_logo.svg" height="40" title="Microsoft Access" />
-</p>
-
 
 ---
 
