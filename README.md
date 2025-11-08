@@ -34,6 +34,23 @@ Currently working on my personal project ** [Calculator 🧮](https://github.com
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,git,github,vscode,bootstrap" />
 </p>
+---
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <!-- آیکون‌های ICDL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" height="40" title="Microsoft Word" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" height="40" title="Microsoft Excel" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" height="40" title="Microsoft PowerPoint" />
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="40" title="Microsoft Access" />
+</p>
 
 
 ---
@@ -50,7 +67,7 @@ Currently working on my personal project ** [Calculator 🧮](https://github.com
 - 📧 **Email:** [eminemengland2000@gmail.com](mailto:eminemengland2000@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/mohammadreza-shahbazi-313sh](https://www.linkedin.com/in/mohammadreza-shahbazi-313sh)  
 - 💬 **Telegram:** [t.me/STANsoSAD](https://t.me/STANsoSAD)
-- 
+  
 <p align="left">
   <a href="mailto:eminemengland2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
