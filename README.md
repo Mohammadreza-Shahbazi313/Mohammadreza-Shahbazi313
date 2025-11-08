@@ -15,6 +15,32 @@ Currently working on my personal project ** [Calculator 🧮](https://github.com
 - ✨ Passionate about blending design and logic to craft seamless user experiences  
 
 ---
+### 🚀 My Projects Showcase
+
+<p align="center">
+  <a href="https://github.com/Mohammadreza-Shahbazi313/Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammadreza-Shahbazi313&repo=Calculator&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Mohammadreza-Shahbazi313/Greenery-MSH">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammadreza-Shahbazi313&repo=Greenery-MSH&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+---
+
+### 💼 Featured Projects
+
+| 🌟 Project | 🔗 Live Demo | 📝 Description |
+|-------------|--------------|----------------|
+| [🧮 Calculator](https://github.com/Mohammadreza-Shahbazi313/Calculator) | [Live](https://Mohammadreza-Shahbazi313.github.io/Calculator/) | A clean, responsive calculator built with HTML & CSS. |
+| [🌿 Greenery-MSH](https://github.com/Mohammadreza-Shahbazi313/Greenery-MSH) | — | A modern plant-themed webpage built for learning responsive layouts. |
+| [🎬 EMStreamTube](https://github.com/Mohammadreza-Shahbazi313/EMStreamTube) | — | A YouTube-inspired design with an Eminem theme (UI/UX practice). |
+
+---
+
+
 
 ### 🛠️ Tech Stack
 `HTML5` • `CSS3` • `JavaScript` (learning) • `Python` (learning) • `Angular` (learning) • `Git` • `GitHub` • `VS Code` • `ICDL`
