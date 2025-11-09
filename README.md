@@ -28,12 +28,12 @@ Currently working on my personal project ** [Calculator 🧮](https://github.com
 ---
 
 
-
 ### 🛠️ Tech Stack
 `HTML5` • `CSS3` • `JavaScript` (learning) • `Python` (learning) • `Angular` (learning) • `Git` • `GitHub` • `VS Code` • `ICDL`
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,git,github,vscode,bootstrap" />
 </p>
+
 
 ---
 
