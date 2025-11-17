@@ -3,8 +3,8 @@
 
 Welcome to my GitHub profile!  
 I'm a **front-end developer** passionate about creating clean, responsive, and modern web designs.  
-Currently working on my personal project ** [Calculator 🧮](https://github.com/Mohammadreza-Shahbazi313/Calculator) **  and continuously improving my development workflow.
-🔗 [View my last project Live](https://Mohammadreza-Shahbazi313.github.io/Calculator/)
+Currently working on my personal project ** [Diaco - Diabetes Screening Tool 🩺](https://github.com/Mohammadreza-Shahbazi313/Diaco-Diabetes-Screening-Tool) ** and continuously improving my development workflow.
+🔗 [View my last project Live](https://Mohammadreza-Shahbazi313.github.io/Diaco-Diabetes-Screening-Tool/)
 
 ---
 
@@ -21,6 +21,7 @@ Currently working on my personal project ** [Calculator 🧮](https://github.com
 
 | 🌟 Project | 🔗 Live Demo | 📝 Description |
 |-------------|--------------|----------------|
+| [🩺 Diaco - Screening Tool](https://github.com/Mohammadreza-Shahbazi313/Diaco-Diabetes-Screening-Tool) | [Live](https://Mohammadreza-Shahbazi313.github.io/Diaco-Diabetes-Screening-Tool/) | A bilingual Proof-of-Concept tool for preliminary diabetes risk assessment. |
 | [🧮 Calculator](https://github.com/Mohammadreza-Shahbazi313/Calculator) | [Live](https://Mohammadreza-Shahbazi313.github.io/Calculator/) | A clean, responsive calculator built with HTML & CSS & JS. |
 | [🌿 Greenery-MSH](https://github.com/Mohammadreza-Shahbazi313/Greenery-MSH) | — | A modern plant-themed webpage built for learning responsive layouts. |
 | [🎬 EMStreamTube](https://github.com/Mohammadreza-Shahbazi313/EMStreamTube) | — | A YouTube-inspired design with an Eminem theme (UI/UX practice). |
