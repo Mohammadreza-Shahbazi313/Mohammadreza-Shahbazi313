@@ -40,9 +40,12 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool ðŸ©
 ---
 
 ### ðŸ“Š GitHub Stats
-![M.SH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammadreza-Shahbazi313&show_icons=true&theme=tokyonight)
-    &nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza-Shahbazi313&layout=compact&theme=tokyonight)
+
+[![M.SH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammadreza-Shahbazi313&show_icons=true&theme=tokyonight)](https://github.com/Mohammadreza-Shahbazi313)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza-Shahbazi313&layout=compact&theme=tokyonight)](https://github.com/Mohammadreza-Shahbazi313)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammadreza-Shahbazi313&theme=tokyonight)](https://github.com/Mohammadreza-Shahbazi313)
 
 ---
 
