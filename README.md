@@ -45,6 +45,104 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza-Shahbazi313&layout=compact&theme=tokyonight)](https://github.com/Mohammadreza-Shahbazi313)
 
+---
+
+<p align="center">
+  <h2>🎓 Certificates</h2>
+</p>
+
+<p align="center">
+
+  <table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin: 10px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+    <tr>
+      <td width="90" valign="middle" align="center">
+        <!-- small badge/image -->
+        <img src="https://img.shields.io/badge/Certificate-Docker-2496ED?style=for-the-badge&logo=docker" alt="docker" />
+      </td>
+      <td valign="middle" style="color:#dbe6ea;">
+        <strong>Docker Essentials – Complete Docker Training</strong><br/>
+        <small>Issuer: Faradars </small>
+      </td>
+      <td width="180" valign="middle" align="center">
+        <a href="https://faradars.org/verify/8C5A0C0B" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="view" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
+  <table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin: 10px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+    <tr>
+      <td width="90" valign="middle" align="center">
+        <img src="https://img.shields.io/badge/Certificate-Faradars-6c63ff?style=for-the-badge" alt="cert" />
+      </td>
+      <td valign="middle" style="color:#dbe6ea;">
+        <strong>Understanding programing</strong><br/>
+        <small>Issuer: Faradars</small>
+      </td>
+      <td width="180" valign="middle" align="center">
+        <a href="https://faradars.org/verify/BDD06B50" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="view" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
+  <table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin: 10px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+    <tr>
+      <td width="90" valign="middle" align="center">
+        <img src="https://img.shields.io/badge/Certificate-ICDL-ffb703?style=for-the-badge" alt="icdl" />
+      </td>
+      <td valign="middle" style="color:#dbe6ea;">
+        <strong>ICDL — Faradars</strong><br/>
+        <small>Issuer: Faradars</small>
+      </td>
+      <td width="180" valign="middle" align="center">
+        <a href="https://faradars.org/verify/A4CC31DB" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="view" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
+  <table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin: 10px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+    <tr>
+      <td width="90" valign="middle" align="center">
+        <img src="https://img.shields.io/badge/Certificate-Git-F1502F?style=for-the-badge&logo=git" alt="git" />
+      </td>
+      <td valign="middle" style="color:#dbe6ea;">
+        <strong>Mastering Git, GitHub and Version Control</strong><br/>
+        <small>Issuer: Faradars</small>
+      </td>
+      <td width="180" valign="middle" align="center">
+        <a href="https://faradars.org/verify/4EBCE254" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="view" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
+  <table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin: 10px auto 30px; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+    <tr>
+      <td width="90" valign="middle" align="center">
+        <img src="https://img.shields.io/badge/Certificate-Faradars-9b5de5?style=for-the-badge" alt="cert" />
+      </td>
+      <td valign="middle" style="color:#dbe6ea;">
+        <strong>Fundamentals of Programming</strong><br/>
+        <small>Issuer: Faradars</small>
+      </td>
+      <td width="180" valign="middle" align="center">
+        <a href="https://faradars.org/verify/227113A0" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="view" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
