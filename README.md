@@ -46,7 +46,6 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool ðŸ©
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza-Shahbazi313&layout=compact&theme=tokyonight)](https://github.com/Mohammadreza-Shahbazi313)
 
 ---
-<!-- Certificates - variant B (no left icon) -->
 <h2 align="center">ðŸŽ“ Certificates</h2>
 
 <p align="center">
@@ -54,7 +53,7 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool ðŸ©
 <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
-      <strong>Docker Essentials â€“ Complete Docker Training (Faradars)</strong><br/>
+      <strong>Docker Essentials â€“ Complete Docker Training </strong><br/>
       <small>Verified Certificate â€¢ Faradars</small>
     </td>
     <td width="200" align="center" valign="middle">
@@ -68,7 +67,7 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool ðŸ©
 <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
-      <strong>Linux Fundamentals & Practical Skills (Faradars)</strong><br/>
+      <strong>Understanding programing  Fundamentals & Practical Skills</strong><br/>
       <small>Verified Certificate â€¢ Faradars</small>
     </td>
     <td width="200" align="center" valign="middle">
@@ -82,7 +81,7 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool ðŸ©
 <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
-      <strong>ICDL (International Computer Driving License) â€“ Faradars</strong><br/>
+      <strong>ICDL (International Computer Driving License) </strong><br/>
       <small>Verified Certificate â€¢ Faradars</small>
     </td>
     <td width="200" align="center" valign="middle">
@@ -96,7 +95,7 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool ðŸ©
 <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
-      <strong>Mastering Git, GitHub and Version Control (Faradars)</strong><br/>
+      <strong>Mastering Git, GitHub and Version Control </strong><br/>
       <small>Verified Certificate â€¢ Faradars</small>
     </td>
     <td width="200" align="center" valign="middle">
@@ -110,7 +109,7 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool ðŸ©
 <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto 30px; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
-      <strong>Advanced Web Development Basics (Faradars)</strong><br/>
+      <strong>Advanced Web Development Basics (Fundamentals of Programming)</strong><br/>
       <small>Verified Certificate â€¢ Faradars</small>
     </td>
     <td width="200" align="center" valign="middle">
