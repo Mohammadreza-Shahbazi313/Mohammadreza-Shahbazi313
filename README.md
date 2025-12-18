@@ -46,24 +46,18 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza-Shahbazi313&layout=compact&theme=tokyonight)](https://github.com/Mohammadreza-Shahbazi313)
 
 ---
-<!-- Certificates - variant A (left icon kept, small & tidy) -->
+<!-- Certificates - variant B (no left icon) -->
 <h2 align="center">🎓 Certificates</h2>
 
 <p align="center">
 
-<table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+<table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
-    <!-- left icon (small & centered) -->
-    <td width="60" align="center" valign="middle" style="font-size:30px;">🏅</td>
-
-    <!-- middle: title -->
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
       <strong>Docker Essentials – Complete Docker Training (Faradars)</strong><br/>
       <small>Verified Certificate • Faradars</small>
     </td>
-
-    <!-- right: view button -->
-    <td width="180" align="center" valign="middle">
+    <td width="200" align="center" valign="middle">
       <a href="https://faradars.org/verify/8C5A0C0B" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="View Certificate" />
       </a>
@@ -71,14 +65,13 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
   </tr>
 </table>
 
-<table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+<table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
-    <td width="60" align="center" valign="middle" style="font-size:30px;">🐧</td>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
       <strong>Linux Fundamentals & Practical Skills (Faradars)</strong><br/>
       <small>Verified Certificate • Faradars</small>
     </td>
-    <td width="180" align="center" valign="middle">
+    <td width="200" align="center" valign="middle">
       <a href="https://faradars.org/verify/BDD06B50" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="View Certificate" />
       </a>
@@ -86,14 +79,13 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
   </tr>
 </table>
 
-<table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+<table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
-    <td width="60" align="center" valign="middle" style="font-size:30px;">🧾</td>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
       <strong>ICDL (International Computer Driving License) – Faradars</strong><br/>
       <small>Verified Certificate • Faradars</small>
     </td>
-    <td width="180" align="center" valign="middle">
+    <td width="200" align="center" valign="middle">
       <a href="https://faradars.org/verify/A4CC31DB" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="View Certificate" />
       </a>
@@ -101,14 +93,13 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
   </tr>
 </table>
 
-<table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+<table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
-    <td width="60" align="center" valign="middle" style="font-size:30px;">🔧</td>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
       <strong>Mastering Git, GitHub and Version Control (Faradars)</strong><br/>
       <small>Verified Certificate • Faradars</small>
     </td>
-    <td width="180" align="center" valign="middle">
+    <td width="200" align="center" valign="middle">
       <a href="https://faradars.org/verify/4EBCE254" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="View Certificate" />
       </a>
@@ -116,14 +107,13 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
   </tr>
 </table>
 
-<table cellpadding="8" cellspacing="0" width="760" style="max-width:100%; margin:12px auto 30px; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
+<table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto 30px; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
   <tr>
-    <td width="60" align="center" valign="middle" style="font-size:30px;">🌐</td>
     <td valign="middle" style="color:#dbe6ea; text-align:left;">
       <strong>Advanced Web Development Basics (Faradars)</strong><br/>
       <small>Verified Certificate • Faradars</small>
     </td>
-    <td width="180" align="center" valign="middle">
+    <td width="200" align="center" valign="middle">
       <a href="https://faradars.org/verify/227113A0" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/View%20Certificate-Open-00AEEF?style=for-the-badge" alt="View Certificate" />
       </a>
