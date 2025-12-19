@@ -146,8 +146,32 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
 ---
 
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" alt="profile views" />
+  <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; background:#0f1518; border-radius:10px; border-left:6px solid #d62828; margin:10px auto;">
+    <tr>
+      <td width="200" align="center" valign="middle" style="padding:10px;">
+        <img src="assets/visitors-card.png" alt="visitors card" style="max-width:100%; border-radius:8px;" />
+      </td>
+      <td valign="middle" style="color:#e6eef0; text-align:left; font-family:Inter, Arial, sans-serif;">
+        <div style="font-size:18px; font-weight:700; margin-bottom:6px;">Thanks for visiting — Welcome 👋</div>
+        <div style="font-size:13px; color:#a9b7b7; margin-bottom:8px;">
+          See my projects, certificates and demos below. — Curious? Click to explore.
+        </div>
+        <div>
+          <img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat&logo=github" alt="followers" />
+          &nbsp;
+          <img src="https://img.shields.io/badge/Top-Developer-black?style=flat-square" alt="tag" />
+        </div>
+      </td>
+      <td width="180" align="center" valign="middle" style="padding:10px;">
+        <div style="margin-bottom:8px;">
+          <img src="https://komarev.com/ghpvc/?username=USERNAME&color=red" alt="profile views" />
+        </div>
+        <div style="font-size:12px; color:#a9b7b7;">Profile views</div>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
