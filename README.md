@@ -145,6 +145,14 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
 
 ---
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" alt="profile views" />
+</p>
+
+
+---
+
 ⭐ *Keep coding. Keep growing.*  
 — **M.SH.**
 
