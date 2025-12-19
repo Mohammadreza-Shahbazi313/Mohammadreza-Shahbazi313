@@ -146,27 +146,9 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
 ---
 
 
-
 <p align="center">
-  <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; background:#0f1518; border-radius:10px; border-left:6px solid #d62828; margin:10px auto;">
-    <tr>
-      <td valign="middle" style="color:#e6eef0; text-align:center; font-family:Inter, Arial, sans-serif;">
-        <div style="font-size:18px; font-weight:700; margin-bottom:6px;">Thanks for stopping by — Welcome 👋</div>
-        <div style="font-size:13px; color:#a9b7b7; margin-bottom:8px;">Explore my repos, certificates & demos below</div>
-        <div style="margin:8px 0;">
-          <img src="https://img.shields.io/github/followers/Mohammadreza-Shahbazi313?label=Followers&style=for-the-badge&logo=github" alt="followers" />
-          &nbsp;
-          <img src="https://img.shields.io/badge/Certificates-Faradars-ffb703?style=for-the-badge" alt="certs" />
-        </div>
-        <div style="margin-top:10px;">
-          <img src="https://komarev.com/ghpvc/?username=Mohammadreza-Shahbazi313&color=brightgreen" alt="profile views" />
-          <div style="font-size:12px; color:#a9b7b7; margin-top:6px;">Profile views</div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=Mohammadreza-Shahbazi313&color=blue" alt="profile views" />
 </p>
-
 
 
 ---
