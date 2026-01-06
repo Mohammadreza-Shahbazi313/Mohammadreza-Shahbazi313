@@ -30,10 +30,10 @@ Currently working on my personal project ** [Diaco - Diabetes Screening Tool �
 
 
 ### 🛠️ Tech Stack
-`HTML5` • `CSS3` • `JavaScript` (learning) • `Python` (learning) • `Angular` (learning) • `Git` • `GitHub` • `VS Code` • `ICDL`
+`HTML5` • `CSS3` • `Bootstrap` • `Tailwind CSS` • `JavaScript` (learning) • `Python` (learning) • `Angular` (learning) • `Git` • `GitHub` • `VS Code` • `ICDL`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,git,github,vscode,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,angular,python,git,github,vscode" />
 </p>
 
 
