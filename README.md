@@ -3,8 +3,7 @@
 
 Welcome to my GitHub profile!  
 I'm a **front-end developer** passionate about creating clean, responsive, and modern web designs.  
-Currently working on my personal project ** [Diaco - Diabetes Screening Tool 🩺](https://github.com/Mohammadreza-Shahbazi313/Diaco-Diabetes-Screening-Tool) ** and continuously improving my development workflow.
-🔗 [View my last project Live](https://Mohammadreza-Shahbazi313.github.io/Diaco-Diabetes-Screening-Tool/)
+Currently leveling up my stack with **Angular 16**, **Tailwind CSS**, and **Nebular** to build complex, responsive dashboards and exploring advanced data visualization with **ApexCharts**.
 
 ---
 
