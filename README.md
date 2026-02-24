@@ -7,7 +7,6 @@ Currently leveling up my stack with **Angular 16**, **Tailwind CSS**, and **Nebu
 
 🏆 [Check out my latest completed project: Diaco 🩺](https://mohammadreza-shahbazi313.github.io/Diaco-Diabetes-Screening-Tool/)
 
-
 ---
 
 ### 🧠 About Me
