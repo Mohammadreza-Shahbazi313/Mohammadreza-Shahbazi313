@@ -47,8 +47,8 @@ Currently leveling up my stack with **Angular 16**, **Tailwind CSS**, and **Nebu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadreza-Shahbazi313&layout=compact&theme=tokyonight)](https://github.com/Mohammadreza-Shahbazi313)
 
 ---
-<h2 align="center">🎓 Certificates</h2>
 
+<h2 align="center">🎓 Certificates</h2>
 <p align="center">
 
 <table cellpadding="10" cellspacing="0" width="760" style="max-width:100%; margin:12px auto; background:#0f1518; border-radius:8px; border-left:6px solid #d62828;">
