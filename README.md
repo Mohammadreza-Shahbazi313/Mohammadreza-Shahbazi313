@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm Mohammadreza Shahbazi (M.SH.)
-
 ### Front-End Developer | UI/UX Learner | Passionate About Design & Code
 
 Welcome to my GitHub profile!  
